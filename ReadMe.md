@@ -37,3 +37,15 @@ Install the dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
+### Running the tests
+
+```bash
+pytest
+```
+
+### Running the pre-commit hook
+
+```bash
+pre-commit run --all-files
+```
