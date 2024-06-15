@@ -1,3 +1,7 @@
+"""
+Basic demo of using external modules in python
+"""
+
 import calendar
 import random
 

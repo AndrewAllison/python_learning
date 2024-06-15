@@ -1,4 +1,13 @@
+"""
+Data types demo
+"""
+
+
 def demonstrate_data_types():
+    """
+    Lots off types and some examples of what they are
+    :return:
+    """
 
     # Integer
     integer_example = 42
